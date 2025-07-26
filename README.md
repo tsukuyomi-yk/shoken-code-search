@@ -5,3 +5,4 @@ Cloudflare Pages と github連携のテストで作りました。
 
 https://shoken-code-search.pages.dev/　で公開中
 
+hoge
